@@ -110,29 +110,29 @@ plugins_js: []
 avatar:
   gravatar: false
   shape: circle
-#publications:
-#  date_format: January 2006
-#  citation_style: apa
-#projects:
-#  post_view: 2
-#  publication_view: 2
-#  talk_view: 2
-#breadcrumb:
-#  page_types:
-#    book: true
-#comments:
-#  provider: ''
-#  commentable:
-#    post: true
-#    book: true
-#    project: true
-#    publication: true
-#    event: true
-#  disqus:
-#    shortname: ''
-#    show_count: true
-#  commento:
-#    url: ''
+publications:
+  date_format: January 2006
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+breadcrumb:
+  page_types:
+    book: true
+comments:
+  provider: ''
+  commentable:
+    post: true
+    book: true
+    project: true
+    publication: true
+    event: true
+  disqus:
+    shortname: ''
+    show_count: true
+  commento:
+    url: ''
 search:
   provider: wowchemy
   algolia:
