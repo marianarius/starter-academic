@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mariana Rius
+title: Dr. Mariana Rius
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stony Brook University
+- name: Stony Brook University, Stony Brook, NY 
   url: https://www.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
