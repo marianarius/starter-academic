@@ -70,7 +70,7 @@ highlight_name: false
 
 
  
-=======
+
 Mariana Rius is currently a postdoctoral associate in the labs of Jackie 
 L. Collier (School of Marine and Atmospheric Sciences) and Joshua S. Rest 
 (Department of Ecology and Evolotion) at Stony Brook University. Her 
