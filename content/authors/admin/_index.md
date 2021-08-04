@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-<<<<<<< HEAD
+
 Welcome 
 =======
 Mariana Rius is currently a postdoctoral associate in the labs of Jackie 
@@ -76,6 +76,6 @@ L. Collier (School of Marine and Atmospheric Sciences) and Joshua S. Rest
 (Department of Ecology and Evolotion) at Stony Brook University. Her 
 research focuses on the carotenoid biosynthetic pathway of a 
 hetreotrophic marine protist, Aurantiochytrium limacinum.
->>>>>>> parent of 462e89d (Update _index.md)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
